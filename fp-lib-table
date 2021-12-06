@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Switches)(type KiCad)(uri /home/diau/git/SparkFun-KiCad-Libraries/Footprints/Switches.pretty)(options "")(descr ""))
+  (lib (name Connectors)(type KiCad)(uri /home/diau/git/SparkFun-KiCad-Libraries/Footprints/Connectors.pretty)(options "")(descr ""))
+)
